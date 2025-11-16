@@ -1,6 +1,5 @@
 const input = document.querySelector('input');
 const sub = document.querySelector('.submit');
-const del =document.querySelector('.delete');
 const li = document.querySelector('.li');
 const ol = document.querySelector('.ol');
 sub.addEventListener('click', function () {
